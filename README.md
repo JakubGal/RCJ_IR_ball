@@ -18,3 +18,4 @@ TODO(animation + pdf)
 
 How to test:
 TODO(create check list to proof corect working of ball)
+![1676059455433](https://user-images.githubusercontent.com/44644846/218199909-0faff625-584b-4579-9111-4d693d9fabec.jpg)
