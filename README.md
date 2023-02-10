@@ -3,6 +3,9 @@
 Opensource IR ball for robocup junior soccer
 This project is still work in progress!!! 
 
+testing data:
+https://drive.google.com/drive/folders/1isDrJiC3cLQZJ-q2lvDSGFadgaxJweIT?usp=share_link
+
 ![ball](https://user-images.githubusercontent.com/44644846/218197888-c3d92154-a12a-4497-98c9-b9f257484591.png)
 
 What you need for creating your ball:
