@@ -1,7 +1,9 @@
 
 # RCJ_IR_ball
+This project is still work in progress!!!
+
 Opensource IR ball for robocup junior soccer
-This project is still work in progress!!! 
+ 
 
 testing data:
 https://drive.google.com/drive/folders/1isDrJiC3cLQZJ-q2lvDSGFadgaxJweIT?usp=share_link
