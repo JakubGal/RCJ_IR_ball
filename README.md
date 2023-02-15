@@ -14,8 +14,8 @@ This project is still work in progress!!!
 7. Test version with homemade PCBs
 8. Make some ready to send kits for testing with 'early adopters'
 
-# Qvick guid how to create your ball:
-## Whay you need to do
+# Quick guide how to create your ball
+## Stuff you nead
 Every ball consists of 3 main parts:
 1. Top and botomm shells
 2. PCBs
