@@ -5,26 +5,28 @@ Opensource IR ball for robocup junior soccer
 This project is still work in progress!!!
 
 # TODO list:
-1. Make version of drive board for self asembly 
-2. Update swithch to smd version for asembly
-3. Change weight from curent 89g to 95g with strengtenign week parts of shelfs
-4. Make panel version of all PCBs for kit
-5. Create proper code with gyro auto turn off feature
-6. Check avalibility of all components around world
+1. Make a version of the drive board for self-assembly
+2. Update switch to smd version for assembly
+3. Change weight from current 89g to 95g with strengthening week parts of shelves
+4. Make a panel version of all PCBs for kit
+5. Create proper code with gyro auto turn-off feature
+6. Check the avalibility of all components around the world
 7. Test version with homemade PCBs
-8. Make some ready to send kits for testing with 'early adopters'
-9. Corect spelling (put all text in gramarly)
+8. Make some ready-to-send kits for testing with 'early adopters'
 
-# Quick guide how to create your ball
+
+# Quick guide on how to create your ball
+
 ## Stuff you nead
-Every ball consists of 3 main parts:
-1. Top and botomm shells
-2. PCBs
-3. Mechanical parts
+1. Every ball consists of 3 main parts:
+2. Top and bottom shells
+3. PCBs
+4. Mechanical parts
+
 ![1676059455433](https://user-images.githubusercontent.com/44644846/218199909-0faff625-584b-4579-9111-4d693d9fabec.jpg)
 
 ## 1. Top and botom shells
-To get your shells you can 3d print it your self or ask a friend who have SLA 3d printer, or order it from pcbway or other manufacture with 3d printing service. Here are some resins and manufactures we tried, if you found some other please open issue and let as know so we can add it to a list.
+To get your shells you can 3d print them yourself or ask a friend who has SLA 3d printer or order it from pcbway or another manufacturer with a 3d printing service. Here are some resins and manufacturers I tried if you found some other please open the issue and let us know so we can add it to a list.
 
 |   | Resin name                | Were to buy | Cost per ball | Strenght | Transparenci | Photo |
 |---|---------------------------|-------------|---------------|----------|--------------|-------|
@@ -34,11 +36,10 @@ To get your shells you can 3d print it your self or ask a friend who have SLA 3d
 | 4 | UTR-8100(transparent)     |PCBWAY               |36,8 EUR|MEDIUM              |HIGH       |![1676486634195](https://user-images.githubusercontent.com/44644846/219143177-77d9bcea-a94a-4dd6-bad2-3f4332c3b2a3.jpg)
 
 ## 2. PCBs
-For PCBs we have to main warints. One cheaper and easyer to made in home with just on of swith, and other with gyro,buzzer and ws2812b that can swith off it self when it will not move for 3 minutes. 
-So you have 3 main options how to get your PCBs:
-1. Get them almost fully asembled by JLCPCB or PCBWAY (need to solder LEDs)
-2. Get just PCBs and buy components form digikey/mouser/lcsc or other manufacture and solder it all your self (can chose simler wersion of pcb so need for hot air station)
-3. Make them and cut them all by your self in home (need to order componets) using fotolitografy or other process. TODO do detail guid how to do that
+For PCBs, we have two main variants. One is cheaper and easier to make at home with just one switch, and the other with gyro, buzzer and ws2812b that can switch off itself when it will not move for 3 minutes. So you have 3 main options for how to get your PCBs:
+1. Get them almost fully assembled by JLCPCB or PCBWAY (need to solder LEDs)
+2. Get just PCBs and buy components from digikey/mouser/lcsc or other manufacturers and solder it all yourself (can choose simpler wersion of PCB so need for hot air station)
+3. Make them and cut them all by yourself at home (need to order components) using photolithography or another process. TODO does detail guide on how to do that
 
 ### Components and where to get them
 https://docs.google.com/spreadsheets/d/1AJk5qBYIz7-Oj68zrsEcClqDoz_VDrp_WEVsXvldfIE/edit#gid=0
@@ -55,16 +56,16 @@ TODO be more specifick and prowide links to websides were to get them
 # Ball testing
 When you make your ball now is the time to test if it actualy works. Here are few ways how to do that:
 
-## Test qvaliti of ir light:
+## Test quality of IR light
 1. Use IR seeker (easy test with lego mindstor)
 2. Use TSOP
 3. Make your own ir seeker (link to repo how to meke your own ir seeker)
 4. Use smartphone(not proof of working, just good assumption)
 
-## Test mechanical integrity:
+## Test mechanical integrity
 1. dorop it form 1m and if it survives it is ok
 
-## Test power consumption:
+## Test power consumption
 1. Use ampere meter
 2. Check if it have sam ir intensity for 3h (use new bateries)
 
