@@ -13,6 +13,7 @@ This project is still work in progress!!!
 6. Check avalibility of all components around world
 7. Test version with homemade PCBs
 8. Make some ready to send kits for testing with 'early adopters'
+9. Corect spelling (put all text in gramarly)
 
 # Quick guide how to create your ball
 ## Stuff you nead
