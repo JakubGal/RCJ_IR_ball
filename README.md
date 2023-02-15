@@ -68,7 +68,7 @@ https://drive.google.com/drive/folders/1isDrJiC3cLQZJ-q2lvDSGFadgaxJweIT?usp=sha
 
 TODO provide exact step by step how to test it with each metod
 
-# Inside how it works
+# How it works
 ![rcj_modulation](https://user-images.githubusercontent.com/44644846/219173109-26b2e452-877c-40da-9c19-ad2d4f615f99.png)
 TODO
 Ball neads to emits ir light on wawelengt of 940nm in this modulated way:
