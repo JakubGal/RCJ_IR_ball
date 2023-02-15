@@ -69,12 +69,14 @@ https://drive.google.com/drive/folders/1isDrJiC3cLQZJ-q2lvDSGFadgaxJweIT?usp=sha
 TODO provide exact step by step how to test it with each metod
 
 # Inside how it works
+![rcj_modulation](https://user-images.githubusercontent.com/44644846/219173109-26b2e452-877c-40da-9c19-ad2d4f615f99.png)
 TODO
 Ball neads to emits ir light on wawelengt of 940nm in this modulated way:
-![ball](https://user-images.githubusercontent.com/44644846/218197888-c3d92154-a12a-4497-98c9-b9f257484591.png)
+
 to save energy a ...TODO
 And drive PCB work like this.... TODO
 
 
+![ball](https://user-images.githubusercontent.com/44644846/218197888-c3d92154-a12a-4497-98c9-b9f257484591.png)
 
 
