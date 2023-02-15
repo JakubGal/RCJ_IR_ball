@@ -39,6 +39,10 @@ So you have 3 main options how to get your PCBs:
 2. Get just PCBs and buy components form digikey/mouser/lcsc or other manufacture and solder it all your self (can chose simler wersion of pcb so need for hot air station)
 3. Make them and cut them all by your self in home (need to order componets) using fotolitografy or other process. TODO do detail guid how to do that
 
+### Components and where to get them
+https://docs.google.com/spreadsheets/d/1AJk5qBYIz7-Oj68zrsEcClqDoz_VDrp_WEVsXvldfIE/edit#gid=0
+(all componets are realy easy to get and they are in stock in at least 4 eshops)
+TODO put in in table here
 ## 3. Mechanical parts
 This is easiest part. You just need to buy folowing ithems from your local hardawe store or from internet(few sugested websides listed)
 1. 2x M3 screw
