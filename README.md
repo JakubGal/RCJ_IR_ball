@@ -61,7 +61,7 @@ When you make your ball now is the time to test if it actualy works. Here are fe
 3. Make your own ir seeker (link to repo how to meke your own ir seeker)
 4. Use smartphone(not proof of working, just good assumption)
 
-## Test mechanicl integrity:
+## Test mechanical integrity:
 1. dorop it form 1m and if it survives it is ok
 
 ## Test power consumption:
